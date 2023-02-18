@@ -3,7 +3,9 @@ Real-Time Object Segmentation and Tracking using YOLOv8 | chicken Counting
 
 
 
-# FaceOrientor
+# Real-Time Object Segmentation and Tracking using YOLOv8 | chicken Counting
+
+
 A simple face orienter for humans.
 
 
